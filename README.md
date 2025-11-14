@@ -1,4 +1,4 @@
-# Stop the Churn – Point-to-Point Guide
+# Stop the Churn 
 
 ## 1) What this is
 - Streamlit app to predict customer churn
